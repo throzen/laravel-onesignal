@@ -1,0 +1,15 @@
+{
+    "name": "throzen/laravel-onesignal",
+    "description": "Laravel for Onesignal",
+    "keywords": ["onesignal","notification","webpush", "push", "laravel", "laravel 5"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murat Demir",
+            "email": "throze@gmail.com",
+            "homepage": "http://muratdemir.gen.tr"
+        }
+    ],
+    "require": {}
+}
