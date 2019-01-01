@@ -27,5 +27,12 @@
     "psr-4": {
       "MuratDemir\\OneSignal\\": "src/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "MuratDemir\\OneSignalServiceProvider"
+      ]
+    }
   }
 }
