@@ -2,6 +2,7 @@
 
 namespace MuratDemir\OneSignal;
 
+use MuratDemir\OneSignal\Client\Client;
 use Illuminate\Support\ServiceProvider;
 
 class OneSignalServiceProvider extends ServiceProvider
@@ -21,6 +22,12 @@ class OneSignalServiceProvider extends ServiceProvider
             dirname(__DIR__) . '/config/onesignal.php', 'onesignal'
         );
 
+        $this->app->singleton(Client::class, function () {
+            return new Client(config('onesignal'));
+        });
+
     }
+
+
 
 }
