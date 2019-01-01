@@ -1,12 +1,17 @@
 # OneSignal Push Notifications for Laravel 5
 
+<p align="center">
+<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/tcg/voyager/v/stable.svg?format=flat" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/tcg/voyager/license.svg?format=flat" alt="License"></a>
+</p>
+
 
 ## Installation
 
 First, you'll need to require the package with Composer:
 
 ```sh
-composer require muratdemir/onesignal-laravel
+composer require muratdemir/muratdemir/laravel-onesignal
 ```
 
 ### Laravel 5.5 and up
