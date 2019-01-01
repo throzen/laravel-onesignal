@@ -1,5 +1,5 @@
 {
-  "name": "throzen/laravel-onesignal",
+  "name": "muratdemir/laravel-onesignal",
   "description": "Onesignal for Laravel Framework",
   "keywords": [
     "onesignal",
@@ -14,7 +14,7 @@
   "authors": [
     {
       "name": "Murat Demir",
-      "email": "throzen@gmail.com",
+      "email": "murat@muratdemir.gen.tr",
       "homepage": "http://muratdemir.gen.tr"
     }
   ],
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Throzen\\OneSignal\\": "src/"
+      "MuratDemir\\OneSignal\\": "src/"
     }
   }
 }
