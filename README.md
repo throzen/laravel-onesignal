@@ -8,7 +8,7 @@
 First, you'll need to require the package with Composer:
 
 ```sh
-composer require muratdemir/muratdemir/laravel-onesignal
+composer require muratdemir/laravel-onesignal
 ```
 
 ### Laravel 5.5 and up
