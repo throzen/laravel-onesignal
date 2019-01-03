@@ -1,8 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/muratdemir/laravel-onesignal/v/stable)](https://packagist.org/packages/muratdemir/laravel-onesignal)
+<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/muratdemir/laravel-onesignal/v/stable" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/muratdemir/laravel-onesignal/downloads" alt="Downloads"></a>
+<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/muratdemir/laravel-onesignal/license" alt="License"></a>
 
-[![Total Downloads](https://poser.pugx.org/muratdemir/laravel-onesignal/downloads)](https://packagist.org/packages/muratdemir/laravel-onesignal)
-
-[![License](https://poser.pugx.org/muratdemir/laravel-onesignal/license)](https://packagist.org/packages/muratdemir/laravel-onesignal)
 # OneSignal Push Notifications for Laravel 5
 
 ## Installation
