@@ -1,5 +1,3 @@
-<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/tcg/voyager/v/stable.svg?format=flat" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/muratdemir/laravel-onesignal"><img src="https://poser.pugx.org/tcg/voyager/license.svg?format=flat" alt="License"></a>
 [![Latest Stable Version](https://poser.pugx.org/muratdemir/laravel-onesignal/v/stable)](https://packagist.org/packages/muratdemir/laravel-onesignal)
 
 [![Total Downloads](https://poser.pugx.org/muratdemir/laravel-onesignal/downloads)](https://packagist.org/packages/muratdemir/laravel-onesignal)
